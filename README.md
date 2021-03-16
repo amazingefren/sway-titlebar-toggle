@@ -5,6 +5,14 @@ Toggle Titlebar in SwayWM
 * Written in [Rust](https://www.rust-lang.org/) using
 [SwayIPC](https://github.com/jaycefayne/swayipc-rs) for [SwayWM](https://github.com/swaywm/sway)
 
+## Note
+
+**Currently Only Written to check if current titlebar is set to *'normal'***
+
+* Will add configuration options in the future
+
+:pushpin: **Accepting Pull Requests**
+
 ## Executable
 
 Located in [Releases](https://github.com/amazingefren/sway-titlebar-toggle/releases)
