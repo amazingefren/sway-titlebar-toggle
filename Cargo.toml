@@ -1,0 +1,8 @@
+[package]
+name = "sway-titlebar-toggle"
+version = "1.0.0"
+authors = ["amazingefren"]
+edition = "2018"
+
+[dependencies]
+swayipc = "2.7.2"
