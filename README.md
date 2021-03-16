@@ -5,6 +5,8 @@ Toggle Titlebar in SwayWM
 * Written in [Rust](https://www.rust-lang.org/) using
 [SwayIPC](https://github.com/jaycefayne/swayipc-rs) for [SwayWM](https://github.com/swaywm/sway)
 
+![Example Gif](media/cow.gif)
+
 ## Note
 
 **Currently Only Written to check if current titlebar is set to *'normal'***
